@@ -581,4 +581,44 @@ nav a:hover {
 
 .booking button:hover {
     background: #e65c00;
+}/* WhatsApp Button */
+
+.whatsapp-btn {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background: #25D366;
+    color: white;
+    padding: 14px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    z-index: 9999;
+}
+
+.whatsapp-btn:hover {
+    background: #1ebe5d;
+    transform: translateY(-2px);
+}/* WhatsApp Button */
+
+.whatsapp-btn {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background: #25D366;
+    color: white;
+    padding: 14px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    z-index: 9999;
+}
+
+.whatsapp-btn:hover {
+    background: #1ebe5d;
+    transform: translateY(-2px);
 }
